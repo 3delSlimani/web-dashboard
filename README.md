@@ -18,7 +18,7 @@ This project is a web dashboard built with React Native that monitors CPU, RAM, 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone <https://github.com/3delSlimani/web-dashboard>
    ```
 
 2. Navigate to the project directory:
