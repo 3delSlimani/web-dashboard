@@ -1,0 +1,42 @@
+{
+  "name": "web-dashboard",
+  "version": "1.0.0",
+  "description": "A web dashboard for monitoring CPU, RAM, and Disk usage with service control and management features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "build": "react-native build",
+    "test": "react-native test",
+    "eject": "react-native eject"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.64.2",
+    "react-navigation": "^4.4.4",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3",
+    "@types/react": "^17.0.2",
+    "@types/react-native": "^0.64.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/web-dashboard.git"
+  },
+  "keywords": [
+    "react-native",
+    "dashboard",
+    "monitoring",
+    "cpu",
+    "ram",
+    "disk",
+    "service control"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/web-dashboard/issues"
+  },
+  "homepage": "https://github.com/yourusername/web-dashboard#readme"
+}
